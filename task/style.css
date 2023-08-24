@@ -81,7 +81,7 @@ li a:hover::after{
     background: black;
 }
 .btn:hover{
-    background: #dfffdf;
+    background: #fff;
     color: black;
 }
 
